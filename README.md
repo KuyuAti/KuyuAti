@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KuyuAti
+- 👋 Hi, I’m @Kuyu
 - 👀 I’m interested in Java and Web development
 - 🌱 I’m currently learning Java
 
